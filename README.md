@@ -13,10 +13,14 @@ We add the folling feature into the game:<br>
 > Limit of jump:    Mario can not jump if whe path he jump exist obstacle. player are encouraged to use `Tab` to change maps and conquer the obstacle. <br><br>
 
 ## Usages
-   Dowload `make.bat` and excuate it to produce `mario.exe`, then excuate mario.exe.
+   Dowload `make.bat` and excuate it to produce `mario.exe`, then excuate `mario.exe`.
 
 ## Feature
-
+  *Opening animation: using `mwrite`and `delay` method to implement.
+  *time counter: use `getMsecond` to fetch time to 12:00, then we can calculate passing time by call `getMsecond` many times.
+  * interact with maps: we save maps in to one variables, and indentify if mario collision to maps.
+  * mario move and gravity: we design a simple algorithms to implement gravity,and the animation of jump
+  * position: record mario's position to accomplish the collision indentify.
 ## License
   105802015 資工3B 陳昱瑋 NCU CSIE 
 ## Contact
