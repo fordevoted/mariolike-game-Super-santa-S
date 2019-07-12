@@ -1,5 +1,5 @@
 # Mariolike-game-Super-santa-S
-  Super santa S is a kind of simple mario-like game using X86 assembly language to program. 
+  Super santa S is a kind of simple mario-like game using X86 assembly language to program.<br>
   ![fordevoted](https://imgur.com/a/8PQJHHg"Super santa S")
 ## Overview
  Player can use keyboard to manipulate the character. the game is contain 3 level, and all of them are time limited, you can pass each level by getting over specific scores.assembly language is a kind of language between high-level language and machine language, and it is used to hardware device driver programming.<br> 
@@ -23,8 +23,7 @@ We add the folling feature into the game:<br>
   * mario move and gravity: we design a simple algorithms to implement gravity,and the animation of jump
   * position: record mario's position to accomplish the collision indentify.
 ## License
-  *Fordevted
-  
+  ##### Fordevted
   105802015 資工3B 陳昱瑋 NCU CSIE 
 ## Contact
   210509fssh@gmail.com
