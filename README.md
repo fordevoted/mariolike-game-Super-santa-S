@@ -24,7 +24,7 @@ We add the folling feature into the game:<br>
   * position: record mario's position to accomplish the collision indentify.
 ## License
   ##### Fordevted
-  105802015 資工3B 陳昱瑋 NCU CSIE 
+  NCU CSIE | 105802015 | 陳昱瑋  
 ## Contact
   210509fssh@gmail.com
 
